@@ -1,0 +1,4 @@
+#name "twice_512_nested_comments.cl.cool"
+ OBJECTID identifier
+ ERROR "Unmatched *)"
+ OBJECTID ident2

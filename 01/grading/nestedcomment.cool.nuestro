@@ -1,0 +1,5 @@
+#name "nestedcomment.cool"
+ TYPEID XXX
+ ERROR "Unmatched *)"
+ TYPEID XXX
+ ERROR "Unmatched *)"
